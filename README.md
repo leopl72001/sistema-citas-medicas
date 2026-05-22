@@ -41,6 +41,10 @@ El sistema está diseñado bajo una arquitectura cliente-servidor:
 
 El proyecto cuenta con una configuración inicial de integración continua mediante GitHub Actions.
 
+## Evidencia académica
+
+Este repositorio contiene el código fuente, documentación y configuración básica solicitada para la entrega final del proyecto.
+
 ## Autor
 
 Leonardo Peñate Mola
