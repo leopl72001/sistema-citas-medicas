@@ -1,21 +1,42 @@
 # Sistema de Gestión de Citas Médicas
 
-Este proyecto corresponde al desarrollo de un prototipo funcional de un sistema de gestión de citas médicas, como parte del proceso académico.
+## Descripción
 
-## Funcionalidades implementadas
+Este proyecto consiste en el desarrollo de un sistema web para la gestión de citas médicas. Su objetivo es optimizar el proceso de registro, inicio de sesión, consulta de disponibilidad y agendamiento de citas en un consultorio o institución de salud.
 
-- Inicio de sesión de usuario
-- Agendamiento de citas médicas
+## Problema que resuelve
+
+Muchos consultorios gestionan sus citas de forma manual, mediante llamadas telefónicas o registros físicos. Esto puede generar errores, duplicidad de citas, pérdida de información y tiempos de espera para los pacientes.
+
+## Funcionalidades principales
+
+- Inicio de sesión de usuarios.
+- Registro de pacientes.
+- Agendamiento de citas médicas.
+- Consulta de disponibilidad.
+- Visualización de agenda médica.
+- Gestión básica de usuarios.
 
 ## Tecnologías utilizadas
 
 - HTML
 - CSS
 - JavaScript
+- Node.js
+- Express
+- MySQL
+- GitHub Actions
+- Docker
+- Swagger
 
-## Estructura del proyecto
+## Arquitectura general
 
-- index.html → Prototipo funcional
+El sistema está diseñado bajo una arquitectura cliente-servidor:
+
+- Frontend: interfaz web para el usuario.
+- Backend: API REST encargada de la lógica del sistema.
+- Base de datos: almacenamiento de usuarios, médicos, citas y disponibilidad.
 
 ## Autor
-Proyecto académico
+
+Leonardo Peñate Mola
