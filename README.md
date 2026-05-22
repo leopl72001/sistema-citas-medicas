@@ -37,6 +37,10 @@ El sistema está diseñado bajo una arquitectura cliente-servidor:
 - Backend: API REST encargada de la lógica del sistema.
 - Base de datos: almacenamiento de usuarios, médicos, citas y disponibilidad.
 
+## Estado del proyecto
+
+El proyecto cuenta con una configuración inicial de integración continua mediante GitHub Actions.
+
 ## Autor
 
 Leonardo Peñate Mola
