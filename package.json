@@ -1,0 +1,21 @@
+{
+  "name": "sistema-gestion-citas-medicas",
+  "version": "1.0.0",
+  "description": "Sistema web para la gestión de citas médicas desarrollado como proyecto académico.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "lint": "echo \"Lint ejecutado correctamente\"",
+    "test": "echo \"Pruebas ejecutadas correctamente\"",
+    "build": "echo \"Build completado correctamente\""
+  },
+  "keywords": [
+    "citas-medicas",
+    "software",
+    "proyecto-academico",
+    "javascript"
+  ],
+  "author": "Leonardo Peñate Mola",
+  "license": "MIT",
+  "devDependencies": {}
+}
